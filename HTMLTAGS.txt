@@ -1,0 +1,23 @@
+<!DOCTYPE>: Defines the document type and version of HTML .
+<html>: Represents the root element of an HTML document.
+<head>: it has information about the HTML document, such as title etc.
+<title>: Sets the title of the HTML document, that will be displayed in the browser's title bar or tab.
+<body>: Contains the content of the HTML document, including text, images, links, etc.
+<h1> to <h6>: Define heading levels, with <h1> as the highest (most important) and <h6> as the lowest.
+<p>: Represents a paragraph of text.
+<br>: Inserts a line break within text.
+<img>: to insert an image in the document.
+<ul>: Defines an unordered list.
+<ol>: Defines an ordered list.
+<div>: Represents a division or a section in an HTML document.
+<strong>: Represents strong importance, typically rendered as bold.
+<em>: makes the text italic.
+<I>: it also makes text italic.
+<blockquote>: Represents a block of text quoted from another source.
+<q>: Defines a short quotation.
+<table>: Defines a table.
+<tr>: Defines a table row.
+<td>: Defines a table’s data.
+<th>: Defines a table heading of the data inserted.
+
+﻿
